@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ex07 {
+public class ex07_Lista02 {
     public static void main(String[] args) {
         //Entrar com o dia e o mês de uma data e informar quantos dias se passaram desde o início
 

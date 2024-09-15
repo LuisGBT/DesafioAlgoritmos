@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class ex06 {
+public class ex06_Lista02 {
     public static void main(String[] args) {
         //O restaurante a quilo Bem-Bão cobra R$12,00 por cada quilo de refeição. Escreva um algoritmo que leia o
         //peso do prato montado pelo cliente (em quilos) e imprima o valor a pagar. Assuma que a balança já

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex10 {
+public class ex10_Lista02 {
     public static void main(String[] args) {
         //Construa um algoritmo para calcular a distância entre dois pontos do plano cartesiano. Cada ponto é um
         //par ordenado (x,y).

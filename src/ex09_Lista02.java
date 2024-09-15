@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex09 {
+public class ex09_Lista02 {
     public static void main(String[] args) {
         //Uma fábrica de camisetas produz os tamanhos pequeno, médio e grande, cada uma sendo vendida
         //respectivamente por 10, 12 e 15 reais. Construa um algoritmo em que o usuário forneça a quantidade de

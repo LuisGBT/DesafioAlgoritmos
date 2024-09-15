@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ex02 {
+public class ex02_Lista02 {
         public static void main(String[] args) {
             //Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os cavalos
             //comprados para um haras.

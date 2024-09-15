@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class ex08 {
+public class ex08_Lista02 {
     public static void main(String[] args) {
         int qtd = 3;
         double[] notas = new double[qtd];

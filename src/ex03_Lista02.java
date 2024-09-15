@@ -1,8 +1,7 @@
-import java.sql.SQLOutput;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class ex03 {
+public class ex03_Lista02 {
     public static void main(String[] args) {
         //A padaria Hotpão vende uma certa quantidade de pães franceses e uma quantidade de broas a cada dia.
         //Cada pãozinho custa R$ 0,12 e a broa custa R$ 1,50. Ao final do dia, o dono quer saber quanto arrecadou

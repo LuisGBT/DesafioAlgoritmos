@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex04 {
+public class ex04_Lista02 {
     public static void main(String[] args) {
         //Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida ela possui.
         //Considere sempre anos completos, e que um ano possui 365 dias. Ex: uma pessoa com 19 anos possui

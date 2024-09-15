@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class ex01 {
+public class ex01_Lista2 {
     public static void main(String[] args) {
         //A imobiliária Imóbilis vende apenas terrenos retangulares. Faça um algoritmo para ler as dimensões de
         //um terreno e depois exibir a área do terreno.
