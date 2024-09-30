@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/DesafioAlgoritmos.iml" filepath="$PROJECT_DIR$/DesafioAlgoritmos.iml" />
+>>>>>>> 5190144322b3bdec034f631bbe01ba6446a08746
     </modules>
   </component>
 </project>
